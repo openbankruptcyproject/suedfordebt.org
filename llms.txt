@@ -1,0 +1,16 @@
+# Sued for Debt? -- Your Rights & Defenses [2026]
+> Being sued for credit card or medical debt? Know your rights, defenses, and how bankruptcy stops lawsuits. 2026 guide.
+
+## About
+suedfordebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Sued for Debt? -- Your Rights & Defenses: https://suedfordebt.org/
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
