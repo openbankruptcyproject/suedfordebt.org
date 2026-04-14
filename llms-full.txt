@@ -6,8 +6,10 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Sued for Debt? -- Your Rights & Defenses [2026]
+## Sued for Debt? - Your Rights & Defenses [2026]
 Source: https://suedfordebt.org/
+
+Skip to main content
 
 Sued for Debt?
 
@@ -15,7 +17,7 @@ Your Step-by-Step Guide to Responding
 
 Don't Ignore It
 
-The worst thing you can do is nothing. If you do not respond, the court enters a default judgment -- giving the creditor the right to garnish your wages, levy your bank account, and lien your property. You have rights, but only if you show up.
+The worst thing you can do is nothing. If you do not respond, the court enters a default judgment - giving the creditor the right to garnish your wages, levy your bank account, and lien your property. You have rights, but only if you show up.
 
 What happens with a default judgment.
 
@@ -27,11 +29,11 @@ Detailed defense guide | Are you judgment proof?
 
 Timeline and Deadlines
 
-You typically have 20-30 days to respond (check your summons). If you need more time, you can often request an extension from the court. The plaintiff must prove their case -- you do not have to prove you don't owe the money.
+You typically have 20-30 days to respond (check your summons). If you need more time, you can often request an extension from the court. The plaintiff must prove their case - you do not have to prove you don't owe the money.
 
 Getting Help
 
-Legal aid organizations in your area. Pro bono attorneys through your state bar. Many consumer protection attorneys work on contingency for FDCPA violations. You can also represent yourself -- many courts have self-help resources.
+Legal aid organizations in your area. Pro bono attorneys through your state bar. Many consumer protection attorneys work on contingency for FDCPA violations. You can also represent yourself - many courts have self-help resources.
 
 Filing bankruptcy without a lawyer.
 
@@ -118,7 +120,7 @@ suedbycreditcardcompany.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -254,6 +256,7 @@ File Without a Lawyer
 Rebuild Credit
 suedfordebt.org
 ♥ Sponsor
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -264,3 +267,77 @@ Privacy |
 Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
+
+---
+
+## Privacy Policy - suedfordebt.org
+Source: https://suedfordebt.org/privacy.html
+
+suedfordebt.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
